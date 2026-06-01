@@ -1,0 +1,11 @@
+# Install a CUDA-compatible torch/torchvision build first when GPU training is required.
+torch>=2.0
+torchvision>=0.15
+numpy>=1.23
+Pillow>=9.0
+opencv-python>=4.7
+scikit-learn>=1.2
+tqdm>=4.65
+ftfy
+regex
+git+https://github.com/openai/CLIP.git

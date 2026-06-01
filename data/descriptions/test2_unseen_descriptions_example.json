@@ -1,0 +1,302 @@
+{
+  "Eating": {
+    "positive_zs": [
+      "a pig eating feed",
+      "a pig chewing food",
+      "a pig consuming pellets"
+    ],
+    "negative_zs": [
+      "a pig sleeping",
+      "a pig walking",
+      "a pig lying still"
+    ]
+  },
+  "Drinking": {
+    "positive_zs": [
+      "a pig drinking water",
+      "a pig taking a drink",
+      "a pig hydrating"
+    ],
+    "negative_zs": [
+      "a pig eating",
+      "a pig sleeping",
+      "a pig exploring"
+    ]
+  },
+  "Standing": {
+    "positive_zs": [
+      "a pig standing",
+      "a pig upright on four legs",
+      "a pig stationary and upright"
+    ],
+    "negative_zs": [
+      "a pig lying",
+      "a pig sitting",
+      "a pig walking"
+    ]
+  },
+  "Walking": {
+    "positive_zs": [
+      "a pig walking",
+      "a pig moving across the pen",
+      "a pig in motion"
+    ],
+    "negative_zs": [
+      "a pig standing still",
+      "a pig sitting",
+      "a pig sleeping"
+    ]
+  },
+  "Lying": {
+    "positive_zs": [
+      "a pig lying down",
+      "a pig resting on the floor",
+      "a pig in a recumbent position"
+    ],
+    "negative_zs": [
+      "a pig standing",
+      "a pig walking",
+      "a pig sitting"
+    ]
+  },
+  "Lateral Lying": {
+    "positive_zs": [
+      "a pig lying on its side",
+      "a pig side-lying",
+      "a pig lateral recumbent"
+    ],
+    "negative_zs": [
+      "a pig chest-down",
+      "a pig standing",
+      "a pig sitting"
+    ]
+  },
+  "Sternal Lying": {
+    "positive_zs": [
+      "a pig lying chest-down",
+      "a pig prone on the sternum",
+      "a pig belly-down resting"
+    ],
+    "negative_zs": [
+      "a pig lying on its side",
+      "a pig standing",
+      "a pig walking"
+    ]
+  },
+  "Not Lying": {
+    "positive_zs": [
+      "a pig not lying",
+      "a pig upright or seated",
+      "a pig off the ground with no body contact"
+    ],
+    "negative_zs": [
+      "a pig lying",
+      "a pig sleeping on the floor",
+      "a pig side-lying"
+    ]
+  },
+  "Fight": {
+    "positive_zs": [
+      "pigs fighting",
+      "pigs biting and pushing",
+      "pigs in aggressive conflict"
+    ],
+    "negative_zs": [
+      "pigs resting quietly",
+      "pigs eating calmly",
+      "a single pig alone"
+    ]
+  },
+  "No Fight": {
+    "positive_zs": [
+      "pigs not fighting",
+      "pigs calm together",
+      "pigs peaceful"
+    ],
+    "negative_zs": [
+      "pigs biting",
+      "pigs ramming",
+      "pigs chasing"
+    ]
+  },
+  "Sleeping": {
+    "positive_zs": [
+      "a pig sleeping",
+      "a pig in deep sleep",
+      "a pig eyes closed and still"
+    ],
+    "negative_zs": [
+      "a pig walking",
+      "a pig eating",
+      "a pig drinking"
+    ]
+  },
+  "Investigating": {
+    "positive_zs": [
+      "a pig exploring",
+      "a pig sniffing around",
+      "a pig inspecting the environment"
+    ],
+    "negative_zs": [
+      "a pig sleeping",
+      "a pig eating",
+      "a pig drinking"
+    ]
+  },
+  "Mounting": {
+    "positive_zs": [
+      "a pig mounting another pig",
+      "a pig riding on a penmate",
+      "a pig climbing onto another pig"
+    ],
+    "negative_zs": [
+      "pigs standing apart",
+      "pigs resting",
+      "pigs eating"
+    ]
+  },
+  "Active": {
+    "positive_zs": [
+      "a pig active",
+      "a pig moving energetically",
+      "a pig lively and alert"
+    ],
+    "negative_zs": [
+      "a pig sleeping",
+      "a pig lying still",
+      "a pig motionless"
+    ]
+  },
+  "Nose-to-nose": {
+    "positive_zs": [
+      "pigs nose-to-nose",
+      "pigs touching noses",
+      "pigs snout contact"
+    ],
+    "negative_zs": [
+      "pigs far apart",
+      "pigs back-to-back",
+      "a single pig"
+    ]
+  },
+  "Sitting": {
+    "positive_zs": [
+      "a pig sitting",
+      "a pig in dog-sit posture",
+      "a pig seated upright"
+    ],
+    "negative_zs": [
+      "a pig standing",
+      "a pig lying",
+      "a pig walking"
+    ]
+  },
+  "Sitting Drinking": {
+    "positive_zs": [
+      "a pig sitting and drinking",
+      "a pig seated while taking water",
+      "a pig drinking in a sitting posture"
+    ],
+    "negative_zs": [
+      "a pig standing and drinking",
+      "a pig sitting and eating",
+      "a pig sitting and sleeping"
+    ]
+  },
+  "Sitting Feeding": {
+    "positive_zs": [
+      "a pig sitting and eating",
+      "a pig seated while consuming feed",
+      "a pig eating in a sitting posture"
+    ],
+    "negative_zs": [
+      "a pig standing and eating",
+      "a pig sitting and drinking",
+      "a pig sitting idle"
+    ]
+  },
+  "Sitting NF": {
+    "positive_zs": [
+      "a pig sitting without feeding",
+      "a pig seated and idle",
+      "a pig sitting with no intake"
+    ],
+    "negative_zs": [
+      "a pig sitting and eating",
+      "a pig sitting and drinking",
+      "a pig standing without feeding"
+    ]
+  },
+  "Standing Drinking": {
+    "positive_zs": [
+      "a pig standing and drinking",
+      "a pig upright while taking water",
+      "a pig drinking in a standing posture"
+    ],
+    "negative_zs": [
+      "a pig sitting and drinking",
+      "a pig standing and eating",
+      "a pig lying and drinking"
+    ]
+  },
+  "Standing Feeding": {
+    "positive_zs": [
+      "a pig standing and eating",
+      "a pig upright while consuming feed",
+      "a pig eating in a standing posture"
+    ],
+    "negative_zs": [
+      "a pig sitting and eating",
+      "a pig standing and drinking",
+      "a pig lying and eating"
+    ]
+  },
+  "Standing NF": {
+    "positive_zs": [
+      "a pig standing without feeding",
+      "a pig upright and idle",
+      "a pig standing with no intake"
+    ],
+    "negative_zs": [
+      "a pig standing and eating",
+      "a pig standing and drinking",
+      "a pig sitting without feeding"
+    ]
+  },
+  "Sternal Lying Drinking": {
+    "positive_zs": [
+      "a pig chest-down and drinking",
+      "a pig belly-down taking water",
+      "a pig drinking while sternal"
+    ],
+    "negative_zs": [
+      "a pig standing and drinking",
+      "a pig sternal and eating",
+      "a pig lateral lying and idle"
+    ]
+  },
+  "Sternal Lying Feeding": {
+    "positive_zs": [
+      "a pig chest-down and eating",
+      "a pig belly-down consuming feed",
+      "a pig eating while sternal"
+    ],
+    "negative_zs": [
+      "a pig standing and eating",
+      "a pig sternal and drinking",
+      "a pig lateral lying and idle"
+    ]
+  },
+  "Sternal Lying NF": {
+    "positive_zs": [
+      "a pig chest-down without feeding",
+      "a pig belly-down and idle",
+      "a pig sternal with no intake"
+    ],
+    "negative_zs": [
+      "a pig sternal and eating",
+      "a pig sternal and drinking",
+      "a pig standing without feeding"
+    ]
+  }
+} 
