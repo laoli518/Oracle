@@ -1,21 +1,10 @@
-# Folder-based ORACLE Fine-tuning
-
-This is the active fine-tuning workflow for datasets arranged directly by class folders.
-
-The previous Excel-annotation and k-center few-shot selection scripts have been moved to:
-
-```text
-fine_tuning/legacy_annotation_based/
-```
-
-The active scripts no longer use annotation sheets, k-center selection, or descending shots. They train residual adapters on all samples under `train/` and evaluate on all samples under `test/`.
-
+# ORACLE Fine-tuning
 ## Dataset format
 
 Example for the nursery-pig agonistic behaviour task:
 
 ```text
-baoyu/
+nursery/
 ├── train/
 │   ├── Fight/
 │   └── No Fight/
@@ -30,12 +19,9 @@ Folder names are matched in a case/space/underscore-insensitive way. For example
 
 ```bash
 python fine_tuning/finetune_fight_nofight.py \
-  --dataset-root /path/to/baoyu \
+  --dataset-root /path/to/nursery \
   --model-path outputs/training/best_direct_contrastive_model.pth \
-  --output-dir outputs/fine_tuning/baoyu_fight_nofight \
-  --epochs 30 \
-  --lr 1e-4 \
-  --n-frames 25
+  --output-dir outputs/fine_tuning/nursery_fight_nofight \
 ```
 
 ## Lying posture
