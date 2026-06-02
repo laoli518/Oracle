@@ -60,9 +60,9 @@ drinking_eating/
 │   ├── Eating/
 │   └── Other/
 └── test/
-│   ├── Drinking/
-│   ├── Eating/
-│   └── Other/
+    ├── Drinking/
+    ├── Eating/
+    └── Other/
 ```
 
 Run:
