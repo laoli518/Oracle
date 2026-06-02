@@ -9,8 +9,8 @@ ORACLE is an ontology-guided vision-language framework for pig behaviour recogni
 ## Installation
 
 ```bash
-git clone <repository-url>
-cd oracle
+git clone https://github.com/laoli518/Oracle
+cd Oracle
 
 conda create -n oracle python=3.10 -y
 conda activate oracle
