@@ -28,7 +28,7 @@ pip install pandas openpyxl scikit-learn opencv-python
 
 The benchmark dataset contains image and video samples covering 24 pig behaviour categories.
 
-**Dataset download:** [Link to be released / replace with the public dataset URL]
+**Dataset download:** [Download 100K-OPB Dataset](https://github.com/laoli518/-100k-OPB-Dataset-)
 
 After downloading the dataset, prepare the JSON split files and media paths required by the training and evaluation scripts:
 Instructions for preparing JSON split files are provided in the dataset README.
