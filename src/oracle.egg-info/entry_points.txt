@@ -1,4 +1,0 @@
-[console_scripts]
-oracle-test1 = oracle.eval_cli:main_test1
-oracle-test2 = oracle.eval_cli:main_test2
-oracle-train = oracle.cli:main
