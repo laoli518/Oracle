@@ -1,7 +1,7 @@
 # ORACLE
 
 <p align="center">
-  <img src="assets/logo.png" alt="ORACLE logo" width="260">
+  <img src="assets/oracle logo.png" alt="ORACLE logo" width="260">
 </p>
 
 Official code repository for the paper:
