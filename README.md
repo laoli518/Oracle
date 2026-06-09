@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="assets/oracle logo.png" alt="ORACLE logo" width="5000">
-</p>
+ <img src="assets/oracle logo.png" alt="ORACLE logo" width="5000">
+
 # ORACLE
 
 Official code repository for the paper:
