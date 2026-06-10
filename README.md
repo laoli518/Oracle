@@ -33,7 +33,7 @@ ORACLE introduces ontology-guided contrastive learning for knowledge-efficient p
       <sub>Example 1</sub>
     </td>
     <td align="center">
-      <video src="assets/baoyu2.mp4" width="360" controls></video>
+      <img src="assets/baoyu-2.gif" width="360" controls></img>
       <br>
       <sub>Example 2</sub>
     </td>
@@ -46,12 +46,12 @@ ORACLE introduces ontology-guided contrastive learning for knowledge-efficient p
 <table>
   <tr>
     <td align="center">
-      <video src="assets/muzhu1.mp4" width="360" controls></video>
+      <img src="assets/muzhu-1.gif" width="360" controls></img>
       <br>
       <sub>Example 1</sub>
     </td>
     <td align="center">
-      <video src="assets/muzhu2.mp4" width="360" controls></video>
+      <img src="assets/muzhu-2.gif" width="360" controls></img>
       <br>
       <sub>Example 2</sub>
     </td>
@@ -63,12 +63,12 @@ ORACLE introduces ontology-guided contrastive learning for knowledge-efficient p
 <table>
   <tr>
     <td align="center">
-      <video src="assets/yufei1.mp4" width="360" controls></video>
+      <img src="assets/yufei-1.gif" width="360" controls></img>
       <br>
       <sub>Example 1</sub>
     </td>
     <td align="center">
-      <video src="assets/yufei2.mp4" width="360" controls></video>
+      <img src="assets/yufei-2.gif" width="360" controls></img>
       <br>
       <sub>Example 2</sub>
     </td>
