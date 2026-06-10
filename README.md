@@ -28,7 +28,7 @@ ORACLE introduces ontology-guided contrastive learning for knowledge-efficient p
 <table>
   <tr>
     <td align="center">
-      <video src="assets/baoyu-1.mp4" width="360" controls></video>
+      <video src="assets/baoyu-1.gif" width="360" controls></video>
       <br>
       <sub>Example 1</sub>
     </td>
